@@ -1,0 +1,48 @@
+.navbar{
+    height: 90px;
+    color: black;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 30px;
+}
+
+.nav{
+    width: 600px;
+    margin-left: 190px;
+
+}
+
+ a{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.carousel-inner{
+    height: 600px;
+}
+
+.about-pizza{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.pizza-types{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.footer{
+    margin-top: 90px;
+    background-color: #a94442;
+    padding-top: 30px;
+    height: 80px;
+    
+}
+
+.footer-text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
